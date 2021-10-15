@@ -12,9 +12,9 @@
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>utls.b.restrictions1</string>
+			<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
 			<key>PayloadOrganization</key>
-			<string>@SCFWSE</string>
+			<string>Shaw Communications Inc.</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
@@ -29,17 +29,17 @@
 	<string>See Github for more infomation.
 Twitter:@SCFWSE</string>
 	<key>PayloadDisplayName</key>
-	<string>Shaw remover</string>
+	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
 	<string>592C0700CB1E2BA4A490899CB3407807</string>
 	<key>PayloadOrganization</key>
-	<string>@SCFWSE</string>
+	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>39B9BFB7-D7BD-42BE-8C67-03AA0086FCD2</string>
+	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
