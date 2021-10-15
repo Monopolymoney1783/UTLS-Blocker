@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>DurationUntilRemoval</key>
-	<real>0</real>
+	<real>1</real>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
