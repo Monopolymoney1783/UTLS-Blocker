@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>DurationUntilRemoval</key>
-	<real>1</real>
+	<real>0</real>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -31,7 +31,7 @@ Twitter:@SCFWSE</string>
 	<key>PayloadDisplayName</key>
 	<string>Shaw remover</string>
 	<key>PayloadIdentifier</key>
-	<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
+	<string>592C0700CB1E2BA4A490899CB3407807</string>
 	<key>PayloadOrganization</key>
 	<string>@SCFWSE</string>
 	<key>PayloadRemovalDisallowed</key>
