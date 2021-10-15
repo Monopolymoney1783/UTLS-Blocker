@@ -18,7 +18,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>DD513FF5-44B0-4AF3-A53D-4B42C1A9A080</string>
+			<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowUntrustedTLSPrompt</key>
