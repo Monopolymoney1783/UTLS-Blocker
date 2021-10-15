@@ -130,13 +130,13 @@
 	<string>See Github for more infomation.
 Twitter:@SCFWSE</string>
 	<key>PayloadDisplayName</key>
-	<string>ShawPasspoint</string>
+	<string>Balls</string>
 	<key>PayloadIdentifier</key>
 	<string>Jajajkdkjfjjdjwjs</string>
 	<key>PayloadOrganization</key>
 	<string>Skaksjjsjdjxjjs</string>
 	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
