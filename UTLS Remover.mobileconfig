@@ -23,6 +23,22 @@
 			<integer>1</integer>
 			<key>allowUntrustedTLSPrompt</key>
 			<false/>
+
+                        <key>EAPSIMAKAIMSI</key>
+                        <string>35 238020 111966 6</string>
+
+                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawGo</string> 
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawOpen</string>
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawPasspoint</string>
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawMobileHotspot</string>
+
+                    <key>EAPSIMAKAIMSI</key>
+                        <string>35 238020 116141 1</string>
+
                         <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
@@ -32,7 +48,73 @@
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawMobileHotspot</string>
 
+                   <key>EAPSIMAKAIMSI</key>
+                        <string>35 683611 251542 1</string>
+
+                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawGo</string> 
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawOpen</string>
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawPasspoint</string>
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawMobileHotspot</string>
+
+                   <key>EAPSIMAKAIMSI</key>
+                        <string>35 683611 256473 4</string>
+
+                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawGo</string> 
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawOpen</string>
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawPasspoint</string>
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawMobileHotspot</string>
+
+
+                         <key>EAPSIMIMSI</key>
+                        <string>35 238020 111966 6</string>
+
+                          <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawGo</string> 
                       <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawOpen</string>
+                      <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawPasspoint</string>
+                      <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawMobileHotspot</string>
+
+
+                    <key>EAPSIMIMSI</key>
+                        <string>35 238020 116141 1</string>
+
+                           <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawGo</string> 
+                      <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawOpen</string>
+                      <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawPasspoint</string>
+                      <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawMobileHotspot</string>
+
+
+                   <key>EAPSIMIMSI</key>
+                        <string>35 683611 251542 1</string>
+
+                         <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawGo</string> 
+                      <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawOpen</string>
+                      <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawPasspoint</string>
+                      <key>EAPSIMPersistentStateForgetSSID</key>
+                        <string>ShawMobileHotspot</string>
+
+                   <key>EAPSIMIMSI</key>
+                        <string>35 683611 256473 4</string>
+
+                        <key>EAPSIMPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
                       <key>EAPSIMPersistentStateForgetSSID</key>
                         <string>ShawOpen</string>
