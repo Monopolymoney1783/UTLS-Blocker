@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>DurationUntilRemoval</key>
-	<real>86400</real>
+	<real>3</real>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -12,7 +12,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>utls.b.restrictions1</string>
+			<string>hotspot.wifi.shaw.ca.restrictions1</string>
 			<key>PayloadOrganization</key>
 			<string>@SCFWSE</string>
 			<key>PayloadType</key>
@@ -22,7 +22,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowUntrustedTLSPrompt</key>
-			<true/>
+			<false/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -31,7 +31,7 @@ Twitter:@SCFWSE</string>
 	<key>PayloadDisplayName</key>
 	<string>UTLS Remover</string>
 	<key>PayloadIdentifier</key>
-	<string>utls.b</string>
+	<string>hotspot.wifi.shaw.ca</string>
 	<key>PayloadOrganization</key>
 	<string>@SCFWSE</string>
 	<key>PayloadRemovalDisallowed</key>
