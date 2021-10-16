@@ -26,12 +26,11 @@
 
                     <key>AcceptEAPTypes</key>
                     <array>
-                        <integer>23</integer>
-                    </array>
+                                   </array>
 
                    <key>InnerAcceptEAPTypes</key>
                     <array>
-                        <integer>23</integer>
+                      
                     </array>
 
                    <key>InnerEAPType</key>
@@ -71,13 +70,11 @@
 
                     <key>AcceptEAPTypes</key>
                     <array>
-                        <integer>23</integer>
-                    </array>
+                                          </array>
 
                    <key>InnerAcceptEAPTypes</key>
                     <array>
-                        <integer>23</integer>
-                    </array>
+                                         </array>
 
                    <key>InnerEAPType</key>
                    <integer>23</integer>
@@ -117,13 +114,11 @@
 
                    <key>AcceptEAPTypes</key>
                     <array>
-                        <integer>23</integer>
-                    </array>
+                                      </array>
 
                    <key>InnerAcceptEAPTypes</key>
                     <array>
-                        <integer>23</integer>
-                    </array>
+                                           </array>
 
                    <key>InnerEAPType</key>
                    <integer>23</integer>
@@ -161,13 +156,11 @@
 
                     <key>AcceptEAPTypes</key>
                     <array>
-                        <integer>23</integer>
-                    </array>
+                                            </array>
 
                    <key>InnerAcceptEAPTypes</key>
                     <array>
-                        <integer>23</integer>
-                    </array>
+                                           </array>
 
                    <key>InnerEAPType</key>
                    <integer>23</integer>
@@ -206,13 +199,11 @@
 
                    <key>AcceptEAPTypes</key>
                     <array>
-                        <integer>18</integer>
-                    </array>
+                                         </array>
 
                    <key>InnerAcceptEAPTypes</key>
                     <array>
-                        <integer>18</integer>
-                    </array>
+                                </array>
 
                    <key>InnerEAPType</key>
                    <integer>18</integer>
@@ -251,13 +242,11 @@
 
                    <key>AcceptEAPTypes</key>
                     <array>
-                        <integer>18</integer>
-                    </array>
+                                          </array>
 
                    <key>InnerAcceptEAPTypes</key>
                     <array>
-                        <integer>18</integer>
-                    </array>
+                                          </array>
 
                    <key>InnerEAPType</key>
                    <integer>18</integer>
@@ -300,8 +289,7 @@
 
                    <key>InnerAcceptEAPTypes</key>
                     <array>
-                        <integer>18</integer>
-                    </array>
+                                        </array>
 
                    <key>InnerEAPType</key>
                    <integer>18</integer>
@@ -343,7 +331,7 @@
 
                    <key>InnerAcceptEAPTypes</key>
                     <array>
-                        <integer>18</integer>
+                        
                     </array>
 
                    <key>InnerEAPType</key>
