@@ -150,6 +150,8 @@
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawMobileHotspot</string>
 
+</dict>
+<dict>
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
@@ -166,9 +168,7 @@
 			<integer>1</integer>
 			<key>allowUntrustedTLSPrompt</key>
 			<false/>
-</dict>
 
-<dict>
                     <key>EAPAcceptTypes</key>
                     <array>
                         <integer>18</integer>
