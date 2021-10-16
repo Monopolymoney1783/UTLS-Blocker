@@ -36,6 +36,18 @@
                         <key>EAPSIMAKAIMSI</key>
                         <string>35 238020 111966 6</string>
 
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
+
                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
@@ -76,6 +88,18 @@
 
                     <key>EAPSIMAKAIMSI</key>
                         <string>35 238020 116141 1</string>
+
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
 
                         <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
