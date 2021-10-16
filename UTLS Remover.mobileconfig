@@ -343,8 +343,6 @@
                     <array>
                                         </array>
 
-                   <key>InnerEAPType</key>
-
                    <key>EAPSIMIMSI</key>
                         <string>35 683611 251542 1</string>
 
@@ -396,7 +394,7 @@
                         
                     </array>
 
-                   <key>InnerEAPType</key>
+                   
   
                    <key>EAPSIMIMSI</key>
                         <string>35 683611 256473 4</string>
