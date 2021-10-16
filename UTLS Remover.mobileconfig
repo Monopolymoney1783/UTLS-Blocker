@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
         <key>DurationUntilRemoval</key>
-	<real>1000000000</real>
+	<real>8</real>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -303,17 +303,18 @@
 	<string>See Github for more infomation.
 Twitter:@SCFWSE</string>
 	<key>PayloadDisplayName</key>
-	<string>Balls5</string>
+	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>Jajajkdkjfjjdjwjsjsj</string>
+	<string>592C0700CB1E2BA4A490899CB3407807</string>
 	<key>PayloadOrganization</key>
-	<string>Skaksjjsjdjxjjs727</string>
+	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>9460fe5-5338-470c-9053-c19df9e8aee1</string>
+	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
