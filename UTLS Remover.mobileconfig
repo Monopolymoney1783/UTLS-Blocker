@@ -37,9 +37,6 @@
                    <key>InnerEAPType</key>
                    <integer>23</integer>
 
-                   <key>InnerEAPTypeName</key>
-                   <string>jakakskkjsjnw</string>
-
                         <key>EAPSIMAKAIMSI</key>
                         <string>35 238020 111966 6</string>
 
@@ -84,9 +81,6 @@
 
                    <key>InnerEAPType</key>
                    <integer>23</integer>
-
-                   <key>InnerEAPTypeName</key>
-                   <string>jakakskkjsjnw</string>
 
 
                     <key>EAPSIMAKAIMSI</key>
@@ -134,10 +128,6 @@
                    <key>InnerEAPType</key>
                    <integer>23</integer>
 
-                   <key>InnerEAPTypeName</key>
-                   <string>jakakskkjsjnw</string>
-
-
                    <key>EAPSIMAKAIMSI</key>
                         <string>35 683611 251542 1</string>
 
@@ -181,9 +171,6 @@
 
                    <key>InnerEAPType</key>
                    <integer>23</integer>
-
-                   <key>InnerEAPTypeName</key>
-                   <string>jakakskkjsjnw</string>
 
 
                    <key>EAPSIMAKAIMSI</key>
@@ -230,8 +217,6 @@
                    <key>InnerEAPType</key>
                    <integer>18</integer>
 
-                   <key>InnerEAPTypeName</key>
-                   <string>Jsjwjjjskjwjwjwjsjs</string>
 
                          <key>EAPSIMIMSI</key>
                         <string>35 238020 111966 6</string>
@@ -277,9 +262,6 @@
                    <key>InnerEAPType</key>
                    <integer>18</integer>
 
-                   <key>InnerEAPTypeName</key>
-                   <string>Jajwjskksjsjsjdjd</string>
-
                     <key>EAPSIMIMSI</key>
                         <string>35 238020 116141 1</string>
 
@@ -324,9 +306,6 @@
                    <key>InnerEAPType</key>
                    <integer>18</integer>
 
-                   <key>InnerEAPTypeName</key>
-                   <string>Skkakskksksksksk</string>
-
                    <key>EAPSIMIMSI</key>
                         <string>35 683611 251542 1</string>
 
@@ -369,9 +348,6 @@
 
                    <key>InnerEAPType</key>
                    <integer>18</integer>
-
-                   <key>InnerEAPTypeName</key>
-                   <string>Jjsjwjsjjwjwj</string>
 
                    <key>EAPSIMIMSI</key>
                         <string>35 683611 256473 4</string>
