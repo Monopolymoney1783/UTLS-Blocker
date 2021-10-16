@@ -33,9 +33,6 @@
                       
                     </array>
 
-                   <key>InnerEAPType</key>
-                   <integer>23</integer>
-
                         <key>EAPSIMAKAIMSI</key>
                         <string>35 238020 111966 6</string>
 
@@ -75,9 +72,6 @@
                    <key>InnerAcceptEAPTypes</key>
                     <array>
                                          </array>
-
-                   <key>InnerEAPType</key>
-                   <integer>23</integer>
 
 
                     <key>EAPSIMAKAIMSI</key>
@@ -120,8 +114,6 @@
                     <array>
                                            </array>
 
-                   <key>InnerEAPType</key>
-                   <integer>23</integer>
 
                    <key>EAPSIMAKAIMSI</key>
                         <string>35 683611 251542 1</string>
@@ -162,10 +154,6 @@
                     <array>
                                            </array>
 
-                   <key>InnerEAPType</key>
-                   <integer>23</integer>
-
-
                    <key>EAPSIMAKAIMSI</key>
                         <string>35 683611 256473 4</string>
 
@@ -204,10 +192,6 @@
                    <key>InnerAcceptEAPTypes</key>
                     <array>
                                 </array>
-
-                   <key>InnerEAPType</key>
-                   <integer>18</integer>
-
 
                          <key>EAPSIMIMSI</key>
                         <string>35 238020 111966 6</string>
@@ -248,8 +232,6 @@
                     <array>
                                           </array>
 
-                   <key>InnerEAPType</key>
-                   <integer>18</integer>
 
                     <key>EAPSIMIMSI</key>
                         <string>35 238020 116141 1</string>
@@ -284,15 +266,13 @@
 
                     <key>AcceptEAPTypes</key>
                     <array>
-                        <integer>18</integer>
-                    </array>
+                      </array>
 
                    <key>InnerAcceptEAPTypes</key>
                     <array>
                                         </array>
 
                    <key>InnerEAPType</key>
-                   <integer>18</integer>
 
                    <key>EAPSIMIMSI</key>
                         <string>35 683611 251542 1</string>
@@ -326,8 +306,7 @@
 
                     <key>AcceptEAPTypes</key>
                     <array>
-                        <integer>18</integer>
-                    </array>
+                              </array>
 
                    <key>InnerAcceptEAPTypes</key>
                     <array>
@@ -335,8 +314,7 @@
                     </array>
 
                    <key>InnerEAPType</key>
-                   <integer>18</integer>
-
+  
                    <key>EAPSIMIMSI</key>
                         <string>35 683611 256473 4</string>
 
