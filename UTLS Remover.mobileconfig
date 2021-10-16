@@ -36,6 +36,18 @@
                         <key>EAPSIMAKAIMSI</key>
                         <string>35 238020 111966 6</string>
 
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
+
                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
@@ -77,6 +89,18 @@
                     <key>EAPSIMAKAIMSI</key>
                         <string>35 238020 116141 1</string>
 
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
+
                         <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
@@ -114,9 +138,20 @@
                     <array>
                                            </array>
 
-
                    <key>EAPSIMAKAIMSI</key>
                         <string>35 683611 251542 1</string>
+
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
 
                         <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
@@ -157,6 +192,18 @@
                    <key>EAPSIMAKAIMSI</key>
                         <string>35 683611 256473 4</string>
 
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
+
                         <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
@@ -195,6 +242,18 @@
 
                          <key>EAPSIMIMSI</key>
                         <string>35 238020 111966 6</string>
+
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
 
                           <key>EAPSIMPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
@@ -235,6 +294,18 @@
 
                     <key>EAPSIMIMSI</key>
                         <string>35 238020 116141 1</string>
+
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
 
                            <key>EAPSIMPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
@@ -277,6 +348,18 @@
                    <key>EAPSIMIMSI</key>
                         <string>35 683611 251542 1</string>
 
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
+
                          <key>EAPSIMPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
                       <key>EAPSIMPersistentStateForgetSSID</key>
@@ -317,6 +400,18 @@
   
                    <key>EAPSIMIMSI</key>
                         <string>35 683611 256473 4</string>
+
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
 
                         <key>EAPSIMPersistentStateForgetSSID</key>
                         <string>ShawGo</string> 
