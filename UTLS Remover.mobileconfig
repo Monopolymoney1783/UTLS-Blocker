@@ -7,22 +7,27 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>PayloadDescription</key>
+					<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>Jajajkdkjfjjdjwjs.jajejske</string>
+			<string>Jajajkdkjfjjdjwjs.jakakkakkdj</string>
 			<key>PayloadOrganization</key>
 			<string>Jekejekikiciwks</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>949e0fe5-5338-470c-9053-c19df9e8aee1</string>
+			<string>946e0fe3-5338-470c-9053-c19df9e8aee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowUntrustedTLSPrompt</key>
 			<false/>
+
+                    <key>EAPAcceptTypes</key>
+                    <array>
+                        <integer>23</integer>
+                    </array>
 
                         <key>EAPSIMAKAIMSI</key>
                         <string>35 238020 111966 6</string>
@@ -36,6 +41,31 @@
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawMobileHotspot</string>
 
+</dict>
+
+<dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>Jajajkdkjfjjdjwjs.jakakkakkdj</string>
+			<key>PayloadOrganization</key>
+			<string>Jekejekikiciwks</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>946e0fe3-5338-470c-9053-c19df9e8aee1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
+
+                    <key>EAPAcceptTypes</key>
+                    <array>
+                        <integer>23</integer>
+                    </array>
+
                     <key>EAPSIMAKAIMSI</key>
                         <string>35 238020 116141 1</string>
 
@@ -48,6 +78,31 @@
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawMobileHotspot</string>
 
+</dict>
+<dict>
+
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>Jajajkdkjfjjdjwjs.jakakkakkdj</string>
+			<key>PayloadOrganization</key>
+			<string>Jekejekikiciwks</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>946e0fe3-5338-470c-9053-c19df9e8aee1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
+
+                    <key>EAPAcceptTypes</key>
+                    <array>
+                        <integer>23</integer>
+                    </array>
+
                    <key>EAPSIMAKAIMSI</key>
                         <string>35 683611 251542 1</string>
 
@@ -59,6 +114,31 @@
                         <string>ShawPasspoint</string>
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawMobileHotspot</string>
+</dict>
+
+<dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>Jajajkdkjfjjdjwjs.jakakkakkdj</string>
+			<key>PayloadOrganization</key>
+			<string>Jekejekikiciwks</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>946e0fe3-5338-470c-9053-c19df9e8aee1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
+
+                    <key>EAPAcceptTypes</key>
+                    <array>
+                        <integer>23</integer>
+                    </array>
+
 
                    <key>EAPSIMAKAIMSI</key>
                         <string>35 683611 256473 4</string>
@@ -72,6 +152,29 @@
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawMobileHotspot</string>
 
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>Jajajkdkjfjjdjwjs.skkakskakkks</string>
+			<key>PayloadOrganization</key>
+			<string>Jekejekikiciwks</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>946e0fe1-5338-470c-9053-c19df9e8aee1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
+</dict>
+
+<dict>
+                    <key>EAPAcceptTypes</key>
+                    <array>
+                        <integer>18</integer>
+                    </array>
 
                          <key>EAPSIMIMSI</key>
                         <string>35 238020 111966 6</string>
@@ -84,7 +187,30 @@
                         <string>ShawPasspoint</string>
                       <key>EAPSIMPersistentStateForgetSSID</key>
                         <string>ShawMobileHotspot</string>
+</dict>
 
+<dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>Jajajkdkjfjjdjwjs.jakakkakkdj</string>
+			<key>PayloadOrganization</key>
+			<string>Jekejekikiciwks</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>946e0fe2-5338-470c-9053-c19df9e8aee1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
+
+                    <key>EAPAcceptTypes</key>
+                    <array>
+                        <integer>18</integer>
+                    </array>
 
                     <key>EAPSIMIMSI</key>
                         <string>35 238020 116141 1</string>
@@ -97,6 +223,30 @@
                         <string>ShawPasspoint</string>
                       <key>EAPSIMPersistentStateForgetSSID</key>
                         <string>ShawMobileHotspot</string>
+</dict>
+
+<dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>Jajajkdkjfjjdjwjs.jakakkakkdj</string>
+			<key>PayloadOrganization</key>
+			<string>Jekejekikiciwks</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>946e0fe3-5338-470c-9053-c19df9e8aee1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
+
+                    <key>EAPAcceptTypes</key>
+                    <array>
+                        <integer>18</integer>
+                    </array>
 
 
                    <key>EAPSIMIMSI</key>
@@ -110,6 +260,29 @@
                         <string>ShawPasspoint</string>
                       <key>EAPSIMPersistentStateForgetSSID</key>
                         <string>ShawMobileHotspot</string>
+             </dict>
+ <dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>Jajajkdkjfjjdjwjs.jakajkwkjs</string>
+			<key>PayloadOrganization</key>
+			<string>Jekejekikiciwks</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>946e0fe4-5338-470c-9053-c19df9e8aee1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
+
+              <key>EAPAcceptTypes</key>
+                    <array>
+                        <integer>18</integer>
+                    </array>
 
                    <key>EAPSIMIMSI</key>
                         <string>35 683611 256473 4</string>
@@ -130,17 +303,17 @@
 	<string>See Github for more infomation.
 Twitter:@SCFWSE</string>
 	<key>PayloadDisplayName</key>
-	<string>Balls</string>
+	<string>Balls5</string>
 	<key>PayloadIdentifier</key>
-	<string>Jajajkdkjfjjdjwjs</string>
+	<string>Jajajkdkjfjjdjwjsjsj</string>
 	<key>PayloadOrganization</key>
-	<string>Skaksjjsjdjxjjs</string>
+	<string>Skaksjjsjdjxjjs727</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>949e0fe5-5338-470c-9053-c19df9e8aee1</string>
+	<string>9460fe5-5338-470c-9053-c19df9e8aee1</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
