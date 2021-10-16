@@ -18,7 +18,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>946e0fe3-5338-470c-9053-c19df9e8aee1</string>
+			<string>946e0fb5-5338-470c-9053-c19df9e8aee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowUntrustedTLSPrompt</key>
@@ -55,7 +55,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>946e0fe3-5338-470c-9053-c19df9e8aee1</string>
+			<string>946e0fb4-5338-470c-9053-c19df9e8aee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowUntrustedTLSPrompt</key>
@@ -92,7 +92,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>946e0fe3-5338-470c-9053-c19df9e8aee1</string>
+			<string>946e0fb3-5338-470c-9053-c19df9e8aee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowUntrustedTLSPrompt</key>
@@ -128,7 +128,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>946e0fe3-5338-470c-9053-c19df9e8aee1</string>
+			<string>946e0fb2-5338-470c-9053-c19df9e8aee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowUntrustedTLSPrompt</key>
