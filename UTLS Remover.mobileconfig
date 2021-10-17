@@ -20,7 +20,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowCloudKeychainSync</key>
-			<false/>
+			<true/>
 			<key>allowAssistant</key>
 			<false/>
 			<key>allowCloudKeychainSync</key>
@@ -103,7 +103,7 @@ Twitter:@SCFWSE</string>
 	<key>PayloadOrganization</key>
 	<string>Jsjsjskkddkd</string>
 	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
