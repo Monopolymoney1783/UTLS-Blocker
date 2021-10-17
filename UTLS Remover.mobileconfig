@@ -22,7 +22,7 @@
 			<key>allowAssistant</key>
 			<false/>
 			<key>allowCloudKeychainSync</key>
-			<false/>
+			<true/>
 			<key>allowCloudBackup</key>
 			<false/>
 
