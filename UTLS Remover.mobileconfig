@@ -10,552 +10,104 @@
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>Jajajkdkjfjjdjwjs.jakakkakkdj8</string>
+			<string>jsjd.ndjdjs</string>
 			<key>PayloadOrganization</key>
-			<string>Jekejekikiciwks</string>
+			<string>Djjssjsjkdjd</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>946e0fb5-5338-470c-9053-c19df9e8aee1</string>
+			<string>946e0fb5-5335-470c-9053-c19df9e8aee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowCloudKeychainSync</key>
 			<false/>
-
-			<key>AutoJoin</key>
+			<key>allowAssistant</key>
+			<false/>
+			<key>allowCloudKeychainSync</key>
+			<false/>
+			<key>allowCloudBackup</key>
 			<false/>
 
-			<key>SSID_STR</key>
-			<string>usjajajsjsjjsjsjsjajjjwjw</string>
+			<key>allowCloudAddressBook</key>
+			<false/>
 
-                        <key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<key>allowCloudBookmarks</key>
+			<false/>
 
-                        <key>CaptiveBypass</key>
-			<true/>
+			<key>allowCloudCalendar</key>
+			<false/>
 
-                        <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
+			<key>allowCloudDesktopAndDocuments</key>
+			<false/>
 
-                    <key>AcceptEAPTypes</key>
-                    <array>
-                                   </array>
+			<key>allowCloudDocumentSync</key>
+			<false/>
 
-                   <key>InnerAcceptEAPTypes</key>
-                    <array>
-                      
-                    </array>
+			<key>allowCloudMail</key>
+			<false/>
 
-                        <key>EAPSIMAKAIMSI</key>
-                        <string>35 238020 111966 6</string>
+			<key>allowCloudNotes</key>
+			<false/>
 
-                             <key>QoSMarkingPolicy</key>
-                               <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                               
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                               </dict>
+			<key>allowCloudMail</key>
+			<false/>
 
-                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawGo</string> 
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawOpen</string>
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawPasspoint</string>
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawMobileHotspot</string>
+			<key>allowCloudPhotoLibrary</key>
+			<false/>
 
+			<key>allowCloudReminders</key>
+			<false/>
+
+			<key>allowManagedAppsCloudSync</key>
+			<false/> 
+
+		        <key>allowPasswordAutoFill</key>
+			<false/>
+
+		        <key>allowEnterpriseBookMetadataSync</key>
+			<false/>
+
+		        <key>allowOpenFromManagedToUnmanaged</key>
+			<false/>
+
+		        <key>forceOnDeviceOnlyDictation</key>
+			<true/> 
+
+		        <key>forceOnDeviceOnlyTranslation</key>
+			<true/> 
+
+		        <key>forceEncryptedBackup</key>
+			<false/> 
+
+		        <key>allowDiagnosticSubmission</key>
+			<false/> 
+
+		        <key>allowCloudPrivateRelay</key>
+			<false/>
+
+		        <key>allowAssistantWhileLocked</key>
+			<false/>
+	                <key>allowActivityContinuation</key>
+			<false/>
+	                <key>allowApplePersonalizedAdvertising</key>
+			<false/>
 </dict>
-
-<dict>
-			<key>PayloadDescription</key>
-			<string></string>
-			<key>PayloadDisplayName</key>
-			<string>Restrictions</string>
-			<key>PayloadIdentifier</key>
-			<string>Jajajkdkjfjjdjwjs.jakakkakkdj7</string>
-			<key>PayloadOrganization</key>
-			<string>Jekejekikiciwks</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess</string>
-			<key>PayloadUUID</key>
-			<string>946e0fb4-5338-470c-9053-c19df9e8aee1</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-
-			<key>AutoJoin</key>
-			<false/>
-
-			<key>SSID_STR</key>
-			<string>usjajajsjsjjsjsjsjajjjwjw</string>
-
-                        <key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                        <key>CaptiveBypass</key>
-			<true/>
-
-                        <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
-
-                    <key>AcceptEAPTypes</key>
-                    <array>
-                                          </array>
-
-                   <key>InnerAcceptEAPTypes</key>
-                    <array>
-                                         </array>
-
-
-                    <key>EAPSIMAKAIMSI</key>
-                        <string>35 238020 116141 1</string>
-
-                             <key>QoSMarkingPolicy</key>
-                               <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                               
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                               </dict>
-
-                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawGo</string> 
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawOpen</string>
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawPasspoint</string>
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawMobileHotspot</string>
-
-</dict>
-<dict>
-
-			<key>PayloadDescription</key>
-			<string></string>
-			<key>PayloadDisplayName</key>
-			<string>Restrictions</string>
-			<key>PayloadIdentifier</key>
-			<string>Jajajkdkjfjjdjwjs.jakakkakkdj6</string>
-			<key>PayloadOrganization</key>
-			<string>Jekejekikiciwks</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess</string>
-			<key>PayloadUUID</key>
-			<string>946e0fb3-5338-470c-9053-c19df9e8aee1</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-
-			<key>AutoJoin</key>
-			<false/>
-
-			<key>SSID_STR</key>
-			<string>usjajajsjsjjsjsjsjajjjwjw</string>
-
-                        <key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                        <key>CaptiveBypass</key>
-			<true/>
-
-                        <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
-
-                   <key>AcceptEAPTypes</key>
-                    <array>
-                                      </array>
-
-                   <key>InnerAcceptEAPTypes</key>
-                    <array>
-                                           </array>
-
-                   <key>EAPSIMAKAIMSI</key>
-                        <string>35 683611 251542 1</string>
-
-                             <key>QoSMarkingPolicy</key>
-                               <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                               
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                               </dict>
-
-                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawGo</string> 
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawOpen</string>
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawPasspoint</string>
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawMobileHotspot</string>
-</dict>
-
-<dict>
-			<key>PayloadDescription</key>
-			<string></string>
-			<key>PayloadDisplayName</key>
-			<string>Restrictions</string>
-			<key>PayloadIdentifier</key>
-			<string>Jajajkdkjfjjdjwjs.jakakkakkdj5</string>
-			<key>PayloadOrganization</key>
-			<string>Jekejekikiciwks</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess</string>
-			<key>PayloadUUID</key>
-			<string>946e0fb2-5338-470c-9053-c19df9e8aee1</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-
-			<key>AutoJoin</key>
-			<false/>
-
-			<key>SSID_STR</key>
-			<string>usjajajsjsjjsjsjsjajjjwjw</string>
-
-                        <key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                        <key>CaptiveBypass</key>
-			<true/>
-
-                        <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
-
-                    <key>AcceptEAPTypes</key>
-                    <array>
-                                            </array>
-
-                   <key>InnerAcceptEAPTypes</key>
-                    <array>
-                                           </array>
-
-                   <key>EAPSIMAKAIMSI</key>
-                        <string>35 683611 256473 4</string>
-
-                             <key>QoSMarkingPolicy</key>
-                               <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                               
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                               </dict>
-
-                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawGo</string> 
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawOpen</string>
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawPasspoint</string>
-                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawMobileHotspot</string>
-
-</dict>
-<dict>
-			<key>PayloadDescription</key>
-			<string></string>
-			<key>PayloadDisplayName</key>
-			<string>Restrictions</string>
-			<key>PayloadIdentifier</key>
-			<string>Jajajkdkjfjjdjwjs.skkakskakkks4</string>
-			<key>PayloadOrganization</key>
-			<string>Jekejekikiciwks</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess</string>
-			<key>PayloadUUID</key>
-			<string>946e0fe1-5338-470c-9053-c19df9e8aee1</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-
-			<key>AutoJoin</key>
-			<false/>
-
-			<key>SSID_STR</key>
-			<string>usjajajsjsjjsjsjsjajjjwjw</string>
-
-                        <key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                        <key>CaptiveBypass</key>
-			<true/>
-
-                        <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
-
-                   <key>AcceptEAPTypes</key>
-                    <array>
-                                         </array>
-
-                   <key>InnerAcceptEAPTypes</key>
-                    <array>
-                                </array>
-
-                         <key>EAPSIMIMSI</key>
-                        <string>35 238020 111966 6</string>
-
-                             <key>QoSMarkingPolicy</key>
-                               <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                               
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                               </dict>
-
-                          <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawGo</string> 
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawOpen</string>
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawPasspoint</string>
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawMobileHotspot</string>
-</dict>
-
-<dict>
-			<key>PayloadDescription</key>
-			<string></string>
-			<key>PayloadDisplayName</key>
-			<string>Restrictions</string>
-			<key>PayloadIdentifier</key>
-			<string>Jajajkdkjfjjdjwjs.jakakkakkdj3</string>
-			<key>PayloadOrganization</key>
-			<string>Jekejekikiciwks</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess</string>
-			<key>PayloadUUID</key>
-			<string>946e0fe2-5338-470c-9053-c19df9e8aee1</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-
-			<key>AutoJoin</key>
-			<false/>
-
-			<key>SSID_STR</key>
-			<string>usjajajsjsjjsjsjsjajjjwjw</string>
-
-                        <key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                        <key>CaptiveBypass</key>
-			<true/>
-
-                        <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
-
-                   <key>AcceptEAPTypes</key>
-                    <array>
-                                          </array>
-
-                   <key>InnerAcceptEAPTypes</key>
-                    <array>
-                                          </array>
-
-
-                    <key>EAPSIMIMSI</key>
-                        <string>35 238020 116141 1</string>
-
-                             <key>QoSMarkingPolicy</key>
-                               <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                               
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                               </dict>
-
-                           <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawGo</string> 
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawOpen</string>
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawPasspoint</string>
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawMobileHotspot</string>
-</dict>
-
-<dict>
-			<key>PayloadDescription</key>
-			<string></string>
-			<key>PayloadDisplayName</key>
-			<string>Restrictions</string>
-			<key>PayloadIdentifier</key>
-			<string>Jajajkdkjfjjdjwjs.jakakkakkdj2</string>
-			<key>PayloadOrganization</key>
-			<string>Jekejekikiciwks</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess</string>
-			<key>PayloadUUID</key>
-			<string>946e0fe3-5338-470c-9053-c19df9e8aee1</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-
-			<key>AutoJoin</key>
-			<false/>
-
-			<key>SSID_STR</key>
-			<string>usjajajsjsjjsjsjsjajjjwjw</string>
-
-                        <key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                        <key>CaptiveBypass</key>
-			<true/>
-
-                        <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
-
-                    <key>AcceptEAPTypes</key>
-                    <array>
-                      </array>
-
-                   <key>InnerAcceptEAPTypes</key>
-                    <array>
-                                        </array>
-
-                   <key>EAPSIMIMSI</key>
-                        <string>35 683611 251542 1</string>
-
-                             <key>QoSMarkingPolicy</key>
-                               <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                               
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                               </dict>
-
-                         <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawGo</string> 
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawOpen</string>
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawPasspoint</string>
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawMobileHotspot</string>
-             </dict>
- <dict>
-			<key>PayloadDescription</key>
-			<string></string>
-			<key>PayloadDisplayName</key>
-			<string>Restrictions</string>
-			<key>PayloadIdentifier</key>
-			<string>Jajajkdkjfjjdjwjs.jakajkwkjs1</string>
-			<key>PayloadOrganization</key>
-			<string>Jekejekikiciwks</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess</string>
-			<key>PayloadUUID</key>
-			<string>946e0fe4-5338-470c-9053-c19df9e8aee1</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-
-			<key>AutoJoin</key>
-			<false/>
-
-			<key>SSID_STR</key>
-			<string>usjajajsjsjjsjsjsjajjjwjw</string>
-
-                        <key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                        <key>CaptiveBypass</key>
-			<true/>
-
-                        <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
-
-                    <key>AcceptEAPTypes</key>
-                    <array>
-                              </array>
-
-                   <key>InnerAcceptEAPTypes</key>
-                    <array>
-                        
-                    </array>
-
-                   
-  
-                   <key>EAPSIMIMSI</key>
-                        <string>35 683611 256473 4</string>
-
-                             <key>QoSMarkingPolicy</key>
-                               <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                               
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                               </dict>
-
-                        <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawGo</string> 
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawOpen</string>
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawPasspoint</string>
-                      <key>EAPSIMPersistentStateForgetSSID</key>
-                        <string>ShawMobileHotspot</string>
-
-
-		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>See Github for more infomation.
 Twitter:@SCFWSE</string>
 	<key>PayloadDisplayName</key>
-	<string>ShawPasspoint</string>
+	<string>sjsjskdkkfkfkkff</string>
 	<key>PayloadIdentifier</key>
-	<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
+	<string>hsjajkskdjdndnnqnsns</string>
 	<key>PayloadOrganization</key>
-	<string>Shaw Communications Inc.</string>
+	<string>Jsjsjskkddkd</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+	<string>8d2ee640-bf5e-45ab-a159-78790ddad893</string>
 
 	<key>PayloadVersion</key>
 	<integer>1</integer>
