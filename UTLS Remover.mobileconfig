@@ -19,8 +19,6 @@
 			<string>946e0fb5-5335-470c-9053-c19df9e8aee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowCloudKeychainSync</key>
-			<true/>
 			<key>allowAssistant</key>
 			<false/>
 			<key>allowCloudKeychainSync</key>
