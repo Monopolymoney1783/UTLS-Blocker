@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-        <key>DurationUntilRemoval</key>
-	<real>8</real>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -21,7 +19,7 @@
 			<string>946e0fb5-5338-470c-9053-c19df9e8aee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowUntrustedTLSPrompt</key>
+			<key>allowCloudKeychainSync</key>
 			<false/>
 
 			<key>AutoJoin</key>
