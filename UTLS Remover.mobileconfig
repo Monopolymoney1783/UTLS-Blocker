@@ -22,7 +22,14 @@
 			<key>allowAssistant</key>
 			<false/>
 			<key>allowCloudKeychainSync</key>
-			<true/>
+			<false/>
+
+			<key>allowOTAPKIUpdates</key>
+			<false/>
+
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
+
 			<key>allowCloudBackup</key>
 			<false/>
 
