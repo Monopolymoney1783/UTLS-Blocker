@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+
+<key>DurationUntilRemoval</key>
+<integer>1</integer>
+
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -19,76 +23,8 @@
 			<string>946e0fb5-5335-470c-9053-c19df9e8aee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowAssistant</key>
-			<false/>
 			<key>allowCloudKeychainSync</key>
 			<true/>
-			<key>allowCloudBackup</key>
-			<false/>
-
-			<key>allowCloudAddressBook</key>
-			<false/>
-
-			<key>allowCloudBookmarks</key>
-			<false/>
-
-			<key>allowCloudCalendar</key>
-			<false/>
-
-			<key>allowCloudDesktopAndDocuments</key>
-			<false/>
-
-			<key>allowCloudDocumentSync</key>
-			<false/>
-
-			<key>allowCloudMail</key>
-			<false/>
-
-			<key>allowCloudNotes</key>
-			<false/>
-
-			<key>allowCloudMail</key>
-			<false/>
-
-			<key>allowCloudPhotoLibrary</key>
-			<false/>
-
-			<key>allowCloudReminders</key>
-			<false/>
-
-			<key>allowManagedAppsCloudSync</key>
-			<false/> 
-
-		        <key>allowPasswordAutoFill</key>
-			<false/>
-
-		        <key>allowEnterpriseBookMetadataSync</key>
-			<false/>
-
-		        <key>allowOpenFromManagedToUnmanaged</key>
-			<false/>
-
-		        <key>forceOnDeviceOnlyDictation</key>
-			<true/> 
-
-		        <key>forceOnDeviceOnlyTranslation</key>
-			<true/> 
-
-		        <key>forceEncryptedBackup</key>
-			<false/> 
-
-		        <key>allowDiagnosticSubmission</key>
-			<false/> 
-
-		        <key>allowCloudPrivateRelay</key>
-			<false/>
-
-		        <key>allowAssistantWhileLocked</key>
-			<false/>
-	                <key>allowActivityContinuation</key>
-			<false/>
-	                <key>allowApplePersonalizedAdvertising</key>
-			<false/>
 </dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -101,7 +37,7 @@ Twitter:@SCFWSE</string>
 	<key>PayloadOrganization</key>
 	<string>Jsjsjskkddkd</string>
 	<key>PayloadRemovalDisallowed</key>
-	<false/>
+	<true/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
